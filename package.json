@@ -1,0 +1,11 @@
+{
+  "name": "com.fransvanberendonk.statemachine",
+  "version": "1.0.0",
+  "displayName": "State Machine",
+  "description": "A simple State Machine implementation for Unity.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Frans van Berendonk",
+    "email": "frans.van.berendonk@gmail.com"
+  }
+}
